@@ -8,7 +8,7 @@
 *.so
 *.pdb
 imgui*
-*/libs/
+**/libs/
 
 # User-specific files
 *.rsuser
